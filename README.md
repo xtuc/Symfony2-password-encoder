@@ -1,5 +1,6 @@
-# Symfony2-password-encoder
+# Double ROT13 password encoder
 
+The encoder uses two iterations for more security.
 
 src/AcmeBundle/Security/DoubleRot13Encoder.php :
 ```PHP
